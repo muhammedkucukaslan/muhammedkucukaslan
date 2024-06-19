@@ -10,8 +10,8 @@
 ###
 <h3 align="left"> Languages I use most of the time</h3>
 
+  ![Javascript]("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
@@ -27,3 +27,10 @@
 </div>
 
 
+![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
