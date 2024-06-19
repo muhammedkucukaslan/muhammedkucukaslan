@@ -9,7 +9,7 @@
 <p align="left">🌐 Backend Developer <br>🌱 Constantly evolving with the tech landscape.<br>🎯 Focused on performance, scalability, and reliability.<br>🔙 Turning complex problems into elegant solutions.</p>
 
 ###
-<h3 align="left"> Languages I use most of the time</h3>
+<h3 align="left"> Languages and tools I use /h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -26,12 +26,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
 </div>
-
-
-![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
