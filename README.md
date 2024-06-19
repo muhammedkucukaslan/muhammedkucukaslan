@@ -1,15 +1,12 @@
 <h1> Hi there 👋 I'm Muhammed </h1>
+
+
+
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRzdWRsOWwwODdqZWVxa3cxa3g3Z3NyYjIxYXg4bGsxaTNuZjdzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp"  />
+
 ###
 
 <p align="left">🌐 Backend Developer <br>🌱 Constantly evolving with the tech landscape.<br>🎯 Focused on performance, scalability, and reliability.<br>🔙 Turning complex problems into elegant solutions.</p>
-
-###
-
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
-###
-
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRzdWRsOWwwODdqZWVxa3cxa3g3Z3NyYjIxYXg4bGsxaTNuZjdzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp"  />
 
 ###
 <h3 align="left"> Languages I use most of the time</h3>
