@@ -9,7 +9,7 @@
 <p align="left">🌐 Backend Developer <br>🌱 Constantly evolving with the tech landscape.<br>🎯 Focused on performance, scalability, and reliability.<br>🔙 Turning complex problems into elegant solutions.</p>
 
 ###
-<h3 align="left"> Languages and tools I use /h3>
+<h3 align="left"> Languages and tools:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
