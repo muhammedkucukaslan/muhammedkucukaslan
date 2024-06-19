@@ -10,8 +10,8 @@
 ###
 <h3 align="left"> Languages I use most of the time</h3>
 
-  ![Javascript]("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
