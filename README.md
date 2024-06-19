@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Muhammed</h1>
+<h1 align="left">Hi 👋! I am [Muhammed](https://github.com/pysk0101)</h1>
 
 ###
 
