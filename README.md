@@ -1,4 +1,8 @@
-<h1> Hi</h1>
+<h1> Hi there 👋 I'm Muhammed </h1>
+###
+
+<p align="left">🌐 Backend Developer <br>🌱 Constantly evolving with the tech landscape.<br>🎯 Focused on performance, scalability, and reliability.<br>🔙 Turning complex problems into elegant solutions.</p>
+
 ###
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
