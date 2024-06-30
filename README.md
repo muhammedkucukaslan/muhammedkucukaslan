@@ -15,14 +15,14 @@
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+ 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  
-<!--   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  /> -->
+
+<!-- <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />-->
+<!--   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  /> 
 <!--   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  /> -->
 <!--   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  /> -->
 
