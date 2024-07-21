@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌐 Backend Developer <br> 🚀Always striving to be better <br>⚙️ Designing robust data schemas that drive high-performance backend systems </p>
+<p align="left">🌐 Backend Developer <br> 🚀 Always striving to be better <br>🛠️ Designing robust data schemas that drive high-performance backend systems <br> ⚙️ Managing modern project architectures in a way that is open to new methods </p>
 
 ###
 <h3 align="left"> Languages and tools:</h3>
