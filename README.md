@@ -7,12 +7,15 @@
 
 ###
 
-<p align="left">🌐 Backend Developer <br> 🚀 Always striving to be better <br>🛠️ Designing robust data schemas that drive high-performance backend systems <br> ⚙️ Managing modern project architectures in a way that is open to new methods </p>
+<p align="left">🌐 Backend Developer <br>🩵 I'm obsessed with Go. <br>🚀 Always striving to be better <br>🛠️ Designing robust data schemas that drive high-performance backend systems <br> ⚙️ Managing modern project architectures in a way that is open to new methods </p>
 
 ###
 <h3 align="left"> Languages and tools:</h3>
 
 <div align="left">
+
+  <img src="https://skillicons.dev/icons?i=go" height="30" alt="c logo"  />
+   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="next logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
