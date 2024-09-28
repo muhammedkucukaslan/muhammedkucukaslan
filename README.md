@@ -2,7 +2,8 @@
 
 
 
-<img align="right" height="200" src="8ub9sq (1).gif"  />
+<img align="right" height="350" src="https://miro.medium.com/v2/resize:fit:1400/1*oL0hjMQxldCYMKRb0a3yhg.png"  />
+
 
 ###
 
