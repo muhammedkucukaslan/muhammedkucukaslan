@@ -9,8 +9,8 @@
       <blockquote>
   <i>"Talk is cheap. Show me the code"</i>      
       </blockquote>
-<b>I'm a backend developer passionate about building efficient and scalable solutions.</b>
-  <b> Also, interested in data engineering. </b>
+<br><b>'m a backend developer passionate about building efficient and scalable solutions.</b>
+  <br><b> Also, interested in data engineering. </b>
 </p>
 
 ###
