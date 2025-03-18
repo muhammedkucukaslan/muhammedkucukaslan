@@ -1,7 +1,7 @@
 <h1> Hi 👋 I'm Muhammed </h1>
 
 
-<img align="right" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmt0NTR3cXJhOTRpZWI2cmEzcGZra3oya2hpanZ6M2pla3g1aDA4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EqGGGbjjFltjG/giphy.gif" />
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmt0NTR3cXJhOTRpZWI2cmEzcGZra3oya2hpanZ6M2pla3g1aDA4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EqGGGbjjFltjG/giphy.gif" />
 
 ###
 
