@@ -16,7 +16,7 @@
 ###
 <h3 align="left"> Languages and tools:</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=go,postgres,postman,typescript" height="45" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=go,postgres,postman,typescript,express" height="45" alt="tech stack" />
 </div>
 
 
